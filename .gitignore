@@ -1,0 +1,10 @@
+.venv/
+upstream/
+outputs/
+jumper-model.xml
+SHARED_RESOURCES.md
+docs/跳跳Jumper-螃蟹机器人专题.md
+docs/跳跳Jumper-本机仿真准备与执行方案.md
+docs/仿真运行记录.md
+README.md
+__pycache__/
